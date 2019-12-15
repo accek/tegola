@@ -1,4 +1,4 @@
-module github.com/go-spatial/tegola
+module github.com/accek/tegola
 
 go 1.12
 
