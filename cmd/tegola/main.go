@@ -6,7 +6,7 @@ import (
 
 	_ "github.com/theckman/goconstraint/go1.8/gte"
 
-	"github.com/go-spatial/tegola/cmd/tegola/cmd"
+	"github.com/accek/tegola/cmd/tegola/cmd"
 )
 
 func main() {

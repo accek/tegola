@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/dict"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/dict"
+	"github.com/accek/tegola/maths"
 )
 
 // Interface defines a cache back end

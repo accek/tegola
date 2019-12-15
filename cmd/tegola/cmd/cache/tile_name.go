@@ -7,9 +7,9 @@ import (
 
 	"github.com/go-spatial/cobra"
 	"github.com/go-spatial/geom/slippy"
-	gdcmd "github.com/go-spatial/tegola/internal/cmd"
-	"github.com/go-spatial/tegola/internal/log"
-	"github.com/go-spatial/tegola/provider"
+	gdcmd "github.com/accek/tegola/internal/cmd"
+	"github.com/accek/tegola/internal/log"
+	"github.com/accek/tegola/provider"
 )
 
 var tileNameTile *slippy.Tile

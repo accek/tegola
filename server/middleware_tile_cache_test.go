@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/go-spatial/tegola/cache/memory"
-	"github.com/go-spatial/tegola/server"
+	"github.com/accek/tegola/cache/memory"
+	"github.com/accek/tegola/server"
 )
 
 func TestMiddlewareTileCacheHandler(t *testing.T) {

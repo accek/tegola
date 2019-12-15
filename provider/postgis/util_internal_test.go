@@ -8,8 +8,8 @@ import (
 	"github.com/jackc/pgx"
 
 	"github.com/go-spatial/geom/slippy"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/internal/ttools"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/internal/ttools"
 )
 
 func TestReplaceTokens(t *testing.T) {

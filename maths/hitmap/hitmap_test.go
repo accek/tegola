@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/maths"
 )
 
 func TestSegmentLinesContains(t *testing.T) {

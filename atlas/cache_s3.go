@@ -8,5 +8,5 @@ package atlas
 //
 // go build -tags 'noS3Cache'
 import (
-	_ "github.com/go-spatial/tegola/cache/s3"
+	_ "github.com/accek/tegola/cache/s3"
 )

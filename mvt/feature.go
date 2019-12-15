@@ -8,14 +8,14 @@ import (
 
 	"github.com/go-spatial/geom"
 	"github.com/go-spatial/geom/encoding/wkt"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/internal/convert"
-	"github.com/go-spatial/tegola/internal/log"
-	"github.com/go-spatial/tegola/maths"
-	"github.com/go-spatial/tegola/maths/points"
-	"github.com/go-spatial/tegola/maths/validate"
-	vectorTile "github.com/go-spatial/tegola/mvt/vector_tile"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/internal/convert"
+	"github.com/accek/tegola/internal/log"
+	"github.com/accek/tegola/maths"
+	"github.com/accek/tegola/maths/points"
+	"github.com/accek/tegola/maths/validate"
+	vectorTile "github.com/accek/tegola/mvt/vector_tile"
 )
 
 // errors

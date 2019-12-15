@@ -2,8 +2,8 @@ package atlas_test
 
 import (
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola/atlas"
-	"github.com/go-spatial/tegola/provider/test"
+	"github.com/accek/tegola/atlas"
+	"github.com/accek/tegola/provider/test"
 )
 
 var testLayer1 = atlas.Layer{

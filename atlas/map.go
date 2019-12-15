@@ -11,13 +11,13 @@ import (
 
 	"github.com/go-spatial/geom"
 	"github.com/go-spatial/geom/slippy"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/dict"
-	"github.com/go-spatial/tegola/internal/convert"
-	"github.com/go-spatial/tegola/mvt"
-	"github.com/go-spatial/tegola/provider"
-	"github.com/go-spatial/tegola/provider/debug"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/dict"
+	"github.com/accek/tegola/internal/convert"
+	"github.com/accek/tegola/mvt"
+	"github.com/accek/tegola/provider"
+	"github.com/accek/tegola/provider/debug"
 	"github.com/golang/protobuf/proto"
 )
 

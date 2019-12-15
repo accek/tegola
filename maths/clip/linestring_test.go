@@ -5,8 +5,8 @@ import (
 
 	"github.com/go-spatial/geom"
 	"github.com/go-spatial/geom/cmp"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
 )
 
 var testExtents = []geom.Extent{

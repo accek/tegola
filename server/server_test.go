@@ -10,9 +10,9 @@ import (
 
 	"github.com/dimfeld/httptreemux"
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola/atlas"
-	"github.com/go-spatial/tegola/provider/test"
-	"github.com/go-spatial/tegola/server"
+	"github.com/accek/tegola/atlas"
+	"github.com/accek/tegola/provider/test"
+	"github.com/accek/tegola/server"
 )
 
 // test server config

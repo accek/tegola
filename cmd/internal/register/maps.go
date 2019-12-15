@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/atlas"
-	"github.com/go-spatial/tegola/config"
-	"github.com/go-spatial/tegola/provider"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/atlas"
+	"github.com/accek/tegola/config"
+	"github.com/accek/tegola/provider"
 )
 
 type ErrProviderLayerInvalid struct {

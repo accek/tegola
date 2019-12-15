@@ -13,10 +13,10 @@ import (
 
 	svg "github.com/ajstarks/svgo"
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola/internal/convert"
-	"github.com/go-spatial/tegola/maths"
-	"github.com/go-spatial/tegola/maths/hitmap"
-	"github.com/go-spatial/tegola/maths/points"
+	"github.com/accek/tegola/internal/convert"
+	"github.com/accek/tegola/maths"
+	"github.com/accek/tegola/maths/hitmap"
+	"github.com/accek/tegola/maths/points"
 )
 
 var ColLenghtErr = errors.New("Col's need to have length of at least 2")

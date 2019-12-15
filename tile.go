@@ -5,7 +5,7 @@ import (
 	"math"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola/maths/webmercator"
+	"github.com/accek/tegola/maths/webmercator"
 )
 
 const (

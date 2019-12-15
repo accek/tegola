@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/go-spatial/tegola/container/singlelist"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola/container/singlelist"
+	"github.com/accek/tegola/maths"
 )
 
 type List struct {

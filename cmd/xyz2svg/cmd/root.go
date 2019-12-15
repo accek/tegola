@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/go-spatial/cobra"
-	"github.com/go-spatial/tegola/provider"
+	"github.com/accek/tegola/provider"
 
-	_ "github.com/go-spatial/tegola/provider/postgis"
+	_ "github.com/accek/tegola/provider/postgis"
 )
 
 var Root = &cobra.Command{

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-spatial/tegola/atlas"
-	"github.com/go-spatial/tegola/mvt/vector_tile"
+	"github.com/accek/tegola/atlas"
+	"github.com/accek/tegola/mvt/vector_tile"
 	"github.com/golang/protobuf/proto"
 )
 

@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-spatial/tegola/cache"
-	"github.com/go-spatial/tegola/cache/azblob"
-	"github.com/go-spatial/tegola/dict"
-	"github.com/go-spatial/tegola/internal/ttools"
+	"github.com/accek/tegola/cache"
+	"github.com/accek/tegola/cache/azblob"
+	"github.com/accek/tegola/dict"
+	"github.com/accek/tegola/internal/ttools"
 	"math/rand"
 )
 

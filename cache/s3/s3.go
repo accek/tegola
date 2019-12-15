@@ -15,10 +15,10 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
 
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/cache"
-	"github.com/go-spatial/tegola/dict"
-	"github.com/go-spatial/tegola/mvt"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/cache"
+	"github.com/accek/tegola/dict"
+	"github.com/accek/tegola/mvt"
 )
 
 var (

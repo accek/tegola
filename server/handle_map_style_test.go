@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-spatial/tegola/mapbox/style"
-	"github.com/go-spatial/tegola/server"
+	"github.com/accek/tegola/mapbox/style"
+	"github.com/accek/tegola/server"
 )
 
 func TestHandleMapStyle(t *testing.T) {

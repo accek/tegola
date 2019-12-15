@@ -3,8 +3,8 @@ package basic
 import (
 	"fmt"
 
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/maths"
 )
 
 // Point describes a simple 2d point

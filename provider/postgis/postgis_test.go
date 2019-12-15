@@ -7,10 +7,10 @@ import (
 	"context"
 
 	"github.com/go-spatial/geom/slippy"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/dict"
-	"github.com/go-spatial/tegola/provider"
-	"github.com/go-spatial/tegola/provider/postgis"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/dict"
+	"github.com/accek/tegola/provider"
+	"github.com/accek/tegola/provider/postgis"
 	"github.com/jackc/pgx"
 )
 

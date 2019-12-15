@@ -4,9 +4,9 @@ import (
 	"sort"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/internal/convert"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/internal/convert"
+	"github.com/accek/tegola/maths"
 )
 
 type Interface interface {

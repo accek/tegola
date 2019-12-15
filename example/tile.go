@@ -8,9 +8,9 @@ import (
 	"context"
 
 	"github.com/go-spatial/geom/encoding/wkb"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/internal/convert"
-	"github.com/go-spatial/tegola/mvt"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/internal/convert"
+	"github.com/accek/tegola/mvt"
 	"github.com/golang/protobuf/proto"
 )
 

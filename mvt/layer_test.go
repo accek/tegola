@@ -4,10 +4,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/internal/p"
-	"github.com/go-spatial/tegola/mvt"
-	"github.com/go-spatial/tegola/mvt/vector_tile"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/internal/p"
+	"github.com/accek/tegola/mvt"
+	"github.com/accek/tegola/mvt/vector_tile"
 )
 
 func newTileLayer(name string, keys []string, values []*vectorTile.Tile_Value, features []*vectorTile.Tile_Feature) *vectorTile.Tile_Layer {

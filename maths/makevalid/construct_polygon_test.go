@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola/maths"
 )
 
 func _TestConstuctPolygon(t *testing.T) {

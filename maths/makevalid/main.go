@@ -10,10 +10,10 @@ import (
 	"sync"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola/maths"
-	"github.com/go-spatial/tegola/maths/hitmap"
-	"github.com/go-spatial/tegola/maths/makevalid/plyg"
-	"github.com/go-spatial/tegola/maths/points"
+	"github.com/accek/tegola/maths"
+	"github.com/accek/tegola/maths/hitmap"
+	"github.com/accek/tegola/maths/makevalid/plyg"
+	"github.com/accek/tegola/maths/points"
 )
 
 var numWorkers = 1

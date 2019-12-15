@@ -11,8 +11,8 @@ import (
 
 	"context"
 
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/mvt/vector_tile"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/mvt/vector_tile"
 )
 
 var simplifyGeometries = true

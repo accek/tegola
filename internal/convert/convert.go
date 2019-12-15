@@ -4,8 +4,8 @@ import (
 	"errors"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
 )
 
 var ErrUnknownGeometry = errors.New("Unknown Geometry")

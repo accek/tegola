@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola/maths"
 )
 
 func TestAxis_Intersect(t *testing.T) {

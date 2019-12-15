@@ -4,12 +4,12 @@ import (
 	"context"
 
 	"github.com/go-spatial/geom"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/maths"
-	"github.com/go-spatial/tegola/maths/clip"
-	"github.com/go-spatial/tegola/maths/hitmap"
-	"github.com/go-spatial/tegola/maths/makevalid"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/maths"
+	"github.com/accek/tegola/maths/clip"
+	"github.com/accek/tegola/maths/hitmap"
+	"github.com/accek/tegola/maths/makevalid"
 )
 
 func CleanLinestring(g []float64) (l []float64, err error) {

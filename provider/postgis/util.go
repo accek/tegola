@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/go-spatial/geom/slippy"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
-	"github.com/go-spatial/tegola/provider"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
+	"github.com/accek/tegola/provider"
 	"github.com/jackc/pgx"
 	"github.com/jackc/pgx/pgtype"
 )

@@ -3,8 +3,8 @@ package basic
 import (
 	"log"
 
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/maths"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/maths"
 )
 
 // IsValid returns whether the line is valid according to the OGC specifiction

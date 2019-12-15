@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-spatial/tegola/internal/p"
+	"github.com/accek/tegola/internal/p"
 )
 
 func ParseString(v interface{}) (*string, error) {

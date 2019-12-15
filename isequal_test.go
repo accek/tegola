@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/go-spatial/tegola"
-	"github.com/go-spatial/tegola/basic"
+	"github.com/accek/tegola"
+	"github.com/accek/tegola/basic"
 )
 
 func TestIsPointEqual(t *testing.T) {

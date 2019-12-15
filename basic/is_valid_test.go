@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/gdey/tbltest"
-	"github.com/go-spatial/tegola/basic"
+	"github.com/accek/tegola/basic"
 )
 
 func TestIsValidLine(t *testing.T) {
